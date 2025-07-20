@@ -1,4 +1,4 @@
-# KiHer AI 公益使用平台
+# KiHer AI 公益gpt,gemini,grok4,k2中转平台
 
 <div align="center">
 
